@@ -1,0 +1,2 @@
+#!/bin/sh
+exec wrmsr -a 0x1FC 0x400
